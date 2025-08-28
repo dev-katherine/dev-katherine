@@ -6,7 +6,6 @@
         </samp>
 </h3>
 
-- 🌱 I’m currently learning Computer Engineering
 -  📫 How to reach me ⬇️ ⬇️ ⬇️ ⬇️
 
 <p align="center">
