@@ -7,7 +7,7 @@
 </h3>
 
 - 🌱 I’m currently learning Computer Engineering
--  📫 How to reach me: ⬇️⬇️⬇️⬇️
+-  📫 How to reach me ⬇️ ⬇️ ⬇️ ⬇️
 
 <p align="center">
 <!--  <a href="https://alsiam.com" target="blank">
