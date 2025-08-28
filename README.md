@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Katherine Jang
 <!-- Intro  -->
 <h3 align="center">
